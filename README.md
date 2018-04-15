@@ -12,4 +12,4 @@ Build the solution and open index.html file in *\TinyGrammar.BridgeNET\TinyGramm
 
 GNU GENERAL PUBLIC LICENSE V 3
 
-Copyright (C) [Massimo Barbieri](http://www.massimobarbieri.it)
+Copyright (C) [Massimo Barbieri](http://www.massimobarbieri.it), [Marco Montesi](https://mmontesi.blogspot.com)
